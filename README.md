@@ -1,2 +1,2 @@
 # Project_Euler_solutions
-"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."
+"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics." I will update this repository as regularly as posssible...
